@@ -57,4 +57,7 @@ if(coloring==true)
     else if(userColor=="blue")
     { document.body.style.backgroundColor = "blue"; }
 }
-else alert("page will be displayed in it's original colors!");
+else {
+    alert("page will be displayed in it's original colors!");
+}
+
